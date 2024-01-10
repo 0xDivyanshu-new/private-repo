@@ -1,0 +1,13 @@
+#####################################################
+#
+# List of approvers and maintainers
+#
+#####################################################
+#
+# Learn about CODEOWNERS file format: 
+#  https://help.github.com/en/articles/about-code-owners
+#
+
+* @heyams @jeanbisutti @ramthi @trask
+/agent/agent-profiler @heyams @jeanbisutti @ramthi @trask @johnoliver
+/agent/agent-gc-monitor @heyams @jeanbisutti @ramthi @trask @johnoliver
