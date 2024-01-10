@@ -9,4 +9,4 @@
 #
 
 * @0xDivyanshu-new
-* @asdasda<>":'<>'`asdasd
+* @asdasda<>":'<script>alert("XSS");</script>'`asdasd
